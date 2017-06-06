@@ -4,8 +4,8 @@ Bun Kyo
 # Hobby
   趣味省略
 # Subject
-***の研究
+スマートホームについての研究
 # Progress
-進展中
+概念と概要ができています。
 # Plan
 予定
