@@ -1,6 +1,6 @@
 
 # Real Name
-Bun Kyo
+文　挙
 # Hobby
   趣味省略
 # Subject
