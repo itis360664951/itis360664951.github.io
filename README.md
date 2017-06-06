@@ -1,7 +1,8 @@
 # Real Name
 文　挙
 # Hobby
-http://wen.mki.biz/wordpress/
+[趣味など](http://wen.mki.biz/wordpress/)
+[testsite](wen.mki.biz)
 # Subject
 [スマートホームについての研究](https://github.com/itis360664951/SmartHome)
 # Progress
